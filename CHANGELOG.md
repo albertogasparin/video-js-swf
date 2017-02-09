@@ -2,9 +2,12 @@ CHANGELOG
 =========
 
 ## HEAD (Unreleased)
-_(none)_
+* @albertogasparin added FCsubscribe call and proxy type to RTMP video provider
 
 --------------------
+
+## 5.2.0 (2017-02-07)
+* @mjneil added appendChunkReady, another way of passing data into the swf
 
 ## 5.1.0 (2016-07-18)
 * @alex-philips added support for the onTextData event
